@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<plugin
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    name="cordova-plugin-appmetadata"
+    version="1.0.0-dev"
+    >
+
+
+</plugin>
